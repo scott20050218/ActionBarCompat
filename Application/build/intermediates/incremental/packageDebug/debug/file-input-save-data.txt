@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Apr 07 16:28:46 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\AppData\\samples-23_r02\\android-6.0\\ui\\ActionBarCompat-Basic\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+0.path=classes.dex
+0.set=DEX
+count=1
